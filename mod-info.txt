@@ -1,0 +1,5 @@
+[mod]
+title: Trump Tank
+description: A tank, that is also Donald Trump's face.
+tags: trump, republican
+thumbnail: trump_thumb.png
